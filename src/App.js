@@ -2,7 +2,7 @@ import logo from './logo.gif';
 import './App.css';
 import Greet from './Components/greet';
 import Welcome from './Components/Welcome';
-//import background from './webversion.jpg'
+
 
 function App() {
   return (

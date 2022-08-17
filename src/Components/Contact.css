@@ -1,0 +1,10 @@
+h1 {
+    height: 5vmin;
+    color:rgb(255, 22, 6);
+    text-shadow: 4px 4px 2px black;
+    -webkit-text-stroke: 1px white;
+}
+
+.Contact-Loc {
+    height: 20vmin;
+}

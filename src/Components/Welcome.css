@@ -5,3 +5,12 @@
     font-size: calc(10px + 2vmin);
     color: white;
   }
+  button{
+    height: 8vmin;
+    width: 15vmin;
+    size: 3vmin;
+    color:rgb(243, 243, 247);
+    text-shadow:  black;
+    background-color: rgb(6, 1, 53);
+    border-radius: 12px;
+  }
